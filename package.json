@@ -1,0 +1,25 @@
+{
+  "name": "onrender-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "mode index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waseem-1995/onrender-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waseem-1995/onrender-api/issues"
+  },
+  "homepage": "https://github.com/waseem-1995/onrender-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  }
+}
